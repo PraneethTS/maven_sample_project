@@ -6,8 +6,8 @@
 
   <groupId>org.sample</groupId>
   <artifactId>mavensample</artifactId>
-  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
 
   <name>mavensample</name>
   <description>A simple mavensample.</description>
